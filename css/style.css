@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Allan:wght@700&family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allan&display=swap');
+
+
+
+@import url('components/banner.css');
+@import url('components/container.css');
+@import url('components/container-nav.css');
+@import url('components/container-cards.css');
+@import url('components/container-carousels.css');
+@import url('components/button.css');
+@import url('components/cards.css');
+@import url('components/card.css');
+@import url('components/nav.css');
+@import url('components/caroussel.css');
+
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Allan', sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Allan',cursive;
+	font-weight: lighter;
+	color: pink;
+	size: 17px;
+}
+
+h3{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+}
+
+
+a{
+	text-decoration: none;
+}
+
