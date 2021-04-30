@@ -1,0 +1,9 @@
+.carousel-cell {
+	width: 100%;
+	height: 200px;
+	margin-right: 10px;
+}
+
+.carousel-cell:before {
+      display: block;
+    }
